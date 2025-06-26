@@ -1,6 +1,4 @@
--- src/main/resources/import.sql
 -- Datos iniciales para la tabla departamento
-
 INSERT INTO departamento (id_departamento, gastos_departamento, nombre_departamento, presupuesto_departamento) VALUES (1, 35000.00, 'Recursos Humanos', 50000.00);
 INSERT INTO departamento (id_departamento, gastos_departamento, nombre_departamento, presupuesto_departamento) VALUES (2, 95000.00, 'Tecnología', 120000.00);
 INSERT INTO departamento (id_departamento, gastos_departamento, nombre_departamento, presupuesto_departamento) VALUES (3, 60000.00, 'Marketing', 75000.00);
