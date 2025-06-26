@@ -1,5 +1,6 @@
 package com.isai.demo_aplicacion_procedimientos_almacenados.models;
 
+
 import jakarta.persistence.*;
 import lombok.*;
 

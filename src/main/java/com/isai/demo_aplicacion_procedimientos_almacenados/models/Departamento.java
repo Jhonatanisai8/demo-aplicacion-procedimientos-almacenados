@@ -19,5 +19,5 @@ public class Departamento {
     private Double presupuestoDepartamento;
 
     @Column(nullable = false)
-    private String gastosDepartamento;
+    private Double gastosDepartamento;
 }
